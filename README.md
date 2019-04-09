@@ -1,4 +1,4 @@
-# Mini Estação Meteorologica 
+# Mini Estação Metorologica 
 
 
 #### Pesquisador: Maicon Serrano(UNIR)
