@@ -11,7 +11,9 @@
 #define DHTPIN 2
 #define DHTTYPE DHT22
 
-char thingsboardServer[] = "YOUR_THINGSBOARD_HOST_OR_IP";
+char thingsboardServer[] = "0.tcp.ngrok.io";
+tcp://0.tcp.ngrok.io:11081
+int porta = 11081
 
 WiFiClient wifiClient;
 
